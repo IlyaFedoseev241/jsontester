@@ -1,6 +1,10 @@
 {
+  "users": [
+    {
       "name": "ilya",
       "id": "1",
       "email": "ilya-fedoseev-03@mail.ru",
       "password": "1234"
+    }
+  ]
 }
